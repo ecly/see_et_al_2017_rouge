@@ -1,0 +1,3 @@
+adidas has partnered with spotify to create an app that tracks your speed and matches music to suit .
+it uses the phone 's gyroscope to track the user 's movements .
+the app will be used to track your speed and matches music to suit .

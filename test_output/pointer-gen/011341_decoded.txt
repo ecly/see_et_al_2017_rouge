@@ -1,0 +1,3 @@
+the map was created using data from nasa’s tropical rainfall measuring mission satellite .
+areas with the fewest number of flashes each year are grey and purple .
+areas with the fewest number of flashes each year are grey and purple ; areas with the least are grey and purple .

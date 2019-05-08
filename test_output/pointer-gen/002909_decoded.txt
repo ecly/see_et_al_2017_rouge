@@ -1,0 +1,3 @@
+developers in boston have worked with global emergency response teams to create its one-touch-911 app .
+users can call the police , fire service , report a car crash or seek medical help at the press of a single button .
+each call is placed with the phone 's gps location , user details and any pre-entered medical information attached .

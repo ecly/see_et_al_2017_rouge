@@ -1,0 +1,3 @@
+UNK is the case uses UNK to blow heat away from the device .
+sensors in the case monitor the phone 's temperature and if it gets too hot .
+it can cool the device using a smartphone over bluetooth .

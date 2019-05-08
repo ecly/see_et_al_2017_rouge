@@ -1,0 +1,3 @@
+hiv specialists and network security experts at university college london made the disovery after creating a simulation of how the virus spreads .
+they worked together to build a model for this ' hybrid spreading ' which accurately predicted patients ' progression from hiv to aids in a major clinical trial .
+hiv infects cd4+ t-cells , which play a vital role in the immune system and protect us from diseases .

@@ -1,0 +1,2 @@
+the issue first came to light on reddit and twitter where a number of users reported similar issues , such as having to repeatedly enter a password to unlock the phone .
+this is because the heart sensor reads a pulse by measuring light absorption though the skin - a process called photoplethysmography .

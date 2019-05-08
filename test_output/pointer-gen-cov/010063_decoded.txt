@@ -1,0 +1,2 @@
+salt card is designed to end the tiresome task of manually unlocking a smartphone or tablet , by automatically unlocking it whenever the user is nearby .
+the credit card-sized gadget also locks devices again as soon as a user moves out of range at a distance of 10 feet ( three metres ) .

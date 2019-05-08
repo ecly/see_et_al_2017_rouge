@@ -1,0 +1,3 @@
+new tool lets users embed tweets within their own messages .
+twitter has officially rolled out its ‘ retweet with comment’ feature .
+available on twitter’s website and the iphone app , the feature will roll out to android handsets soon .

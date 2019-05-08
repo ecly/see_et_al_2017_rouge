@@ -1,0 +1,3 @@
+security researchers have found a way to intercept a person 's fingerprints on a samsung galaxy s5 running android 4.4 and older .
+the vulnerability means that a hacker can access the UNK , or core , of the android operating system .
+the vulnerability means that a hacker can access the UNK , or core , of the android operating system .

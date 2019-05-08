@@ -1,0 +1,3 @@
+google has released an update to its android software allowing owners to unlock their phone with their voice .
+known as trusted voice , it can unlock a phone simply by hearing its owner say ' ok , google ' .
+even google admits the feature is not as secure as other password options .

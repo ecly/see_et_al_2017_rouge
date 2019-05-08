@@ -1,0 +1,3 @@
+experts studied 40 million posts by 1.7 millions users on news site .
+then divided users into those most likely to be banned , called future-banned users ( fbus ) , and other users dubbed never-banned users ( nbus ) .
+trolls are more likely to use positive words than other users , they swear more , and use less tentative or conciliatory language such as ' could ' .

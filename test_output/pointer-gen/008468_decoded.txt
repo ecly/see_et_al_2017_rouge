@@ -1,0 +1,2 @@
+none* gives users only one clue to get started and a keyboard to get started and a keyboard to type their guesses .
+the app has a pitch black screen and a single clue written in white text , as well as showing a small keyboard .

@@ -1,0 +1,3 @@
+a new facebook graph shows the favorite baseball teams in the country by sorting through people 's likes and breaking down winners by county .
+the mets are not the favorite team in one county in the country .
+the graph , created by facebook , uses profile likes and then breaks the individuals down by country to determine a winner .

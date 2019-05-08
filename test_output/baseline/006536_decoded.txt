@@ -1,0 +1,4 @@
+the alarm is set to go off at a certain time the night before .
+the app uses a quick response code , or accelerometer .
+the app is set to go off at a certain time the night before and will make a noise .
+the app is set to go off at a certain time the night before and will make a noise .

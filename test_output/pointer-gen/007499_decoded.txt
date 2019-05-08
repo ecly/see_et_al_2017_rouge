@@ -1,0 +1,2 @@
+researchers from london and edinburgh are developing a computer that can collate meteorological information and produce forecasts as if they were written by a human .
+if the project is successful , a prototype system will be tested by generating local weather reports on the bbc 's website .

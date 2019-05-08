@@ -1,0 +1,2 @@
+researchers at the massachusetts institute of technology have now created an algorithm that can tell how effectively someone is striking a keypad .
+it can distinguish between typing done in the middle of the night , when sleep deprivation impairs motor skills , and typing performed when fully rested .

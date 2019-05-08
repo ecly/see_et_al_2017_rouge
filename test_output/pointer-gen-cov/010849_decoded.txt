@@ -1,0 +1,3 @@
+security researchers have discovered a way to intercept a person 's fingerprints on a samsung galaxy s5 running android 4.4 and older .
+the pair told thomas fox-brewster from forbes that the flaw lies in older versions of the android operating system , up to and including android 4.4 .
+the vulnerability means that a hacker can access the kernel , or core , of the android operating system .

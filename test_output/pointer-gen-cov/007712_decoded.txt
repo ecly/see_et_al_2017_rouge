@@ -1,0 +1,4 @@
+tewksbury police department came under attack by criminals who infected their network with a form of internet malware in december before demanding money to decrypt the files .
+the program called cryptolocker infects through an e-mail and then scrambles the data on the computer .
+it caused police systems to be down between four and five days .
+they were forced to pay a $ 500 in bitcoinransom .

@@ -1,0 +1,3 @@
+optimal case designed by israel-based amited .
+sensors in the case monitor the phone 's temperature and if it gets too hot , it will automatically cool it down .
+the recommended storage temperature for most batteries is 15°c ( 59°f ) , while the ' extreme allowable ' temperature is 40°c to 50°c ( 40°c ) .

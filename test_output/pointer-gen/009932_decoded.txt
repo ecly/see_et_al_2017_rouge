@@ -1,0 +1,3 @@
+greenstone launched last year and has been downloaded more than five million times .
+it takes advantage of a feature that launched in apple’s ios 7 called multipeer connectivity framework ( mcf ) .
+it takes advantage of a feature that launched in apple’s ios 7 called multipeer connectivity framework ( mcf ) .

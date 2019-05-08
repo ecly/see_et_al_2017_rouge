@@ -1,0 +1,2 @@
+head , designed by american robotics designer david hanson , is able to answer basic questions and can also be used in the simulation of medical scenarios .
+ham is currently on exhibit at the global sources spring electronics show at asiaworld expo - the largest event of its kind in the world .

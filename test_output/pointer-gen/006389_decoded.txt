@@ -1,0 +1,2 @@
+the michigan micro mote contains solar cells that power the battery with ambient light , including indoor rooms with no natural sunlight .
+the michigan micro mote contains solar cells that power the battery with ambient light , including indoor rooms with no natural sunlight , allowing the computers to run perpetually .

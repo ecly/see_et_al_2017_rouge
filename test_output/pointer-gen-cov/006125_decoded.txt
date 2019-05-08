@@ -1,0 +1,2 @@
+researchers from the university of patras took thermal infrared photographs of 41 volunteers’ faces , before and after drinking four glasses of wine .
+the scientists then used artificial neural networks to compare the sober ( left ) and drunken images pixel-by-pixel ( a single pixel is shown above the left eyebrow ) .

@@ -1,0 +1,3 @@
+engineers at the dfki robotics centre describe the eossc2 as an ' ultra flexible micro-car for mega cities ' and plan on enabling it to drive itself .
+the eossc2 is described as an ' ultra flexible micro-car for mega cities ' and is designed to connect to others to form a train .
+crabs have a wide flat body to make it easier squeeze into narrow spaces and the eossc2 works in a similar way .

@@ -1,0 +1,3 @@
+riff lets you film videos and uploaded them to th e app .
+app 's homepage has a row of featured clips each tagged with a certain topic .
+for example , one tagged # balancingact features six clips in total .

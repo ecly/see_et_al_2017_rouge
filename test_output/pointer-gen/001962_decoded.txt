@@ -1,0 +1,3 @@
+rosetta 's rosetta spacecraft has survived a hair-raising encounter with comet 67p after the probe ran into difficulties during a recent flyby .
+the spacecraft uses two star trackers to work out where it is in space , in addition to a sun sensor , navigation cameras and three laser gyroscopes .
+rosetta launched into space in 2004 and entered orbit around 67p/churyumov-gerasimenko in august 2014 .

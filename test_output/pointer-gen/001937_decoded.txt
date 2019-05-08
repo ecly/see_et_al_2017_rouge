@@ -1,0 +1,2 @@
+engineers at the dfki robotics centre describe the eossc2 as an ' ultra flexible micro-car for mega cities ' and plan on enabling it to drive itself .
+the concept car can turn on the spot , shrink in size and even move sideways , like a crab , so it can park itself .

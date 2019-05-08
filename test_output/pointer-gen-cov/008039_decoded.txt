@@ -1,0 +1,3 @@
+fanuc 's robot uses integrated vision technology called irvision to keep an eye on humans and automatically stops if it touches an operator .
+the robot can lift objects weighing up to 77 lbs ( 35kg ) and could be used in a number of industries , from warehouses to production lines .
+amazon has already introduced robots to it vast warehouses to work along human employees .

@@ -1,0 +1,2 @@
+feature lets users post a short message about what they are doing in a sidebar added to the social network’s mobile app , complete with an illustrative picture .
+the sidebar can be accessed by swiping right on the screen and brings up a user’s most messaged friends .

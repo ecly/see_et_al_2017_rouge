@@ -1,0 +1,4 @@
+google has announced a tool that locates missing handsets simply by searching for the term ' find my phone ' on the site 's homepage .
+it works with all android phones that have the latest google app installed , and it appears to only work when you 're signed into your google account on chrome .
+the phone 's location is shown and clicking ' ring ' will remotely call the handset .
+google 's latest tool ca n't lock the missing phone , or erase its data .

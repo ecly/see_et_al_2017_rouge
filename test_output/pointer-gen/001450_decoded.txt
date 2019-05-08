@@ -1,0 +1,3 @@
+the 56-page book bought in cambridge contains turing 's thoughts on the clearly tricky ' leibniz notation ' .
+it was written at the bletchley park code-breaking headquarters in 1942 and paved the way for computer science .
+it is believed to be the only extensive turing manuscript known to exist .

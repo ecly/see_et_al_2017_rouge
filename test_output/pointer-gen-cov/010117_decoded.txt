@@ -1,0 +1,2 @@
+the interactive map was created by writer levi pearson , who used a ufo sighting dataset from the national ufo reporting centre and open source software from cartodb .
+it begins in 1933 with the first ufo sightings being spotted over california and nebraska in the us , the uk and france in europe , and locations in japan and australia .

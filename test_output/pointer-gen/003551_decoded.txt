@@ -1,0 +1,3 @@
+sonnenspeicher features an intelligent management system that automatically controls the charging and discharging current , to make it easier to manage how much energy is being used .
+sonnenspeicher features an intelligent management system that automatically controls the charging and discharging current , to make it easier to manage how much energy is being used .
+it additionally has a sleep mode that ensures the storage system never runs low and will automatically go into standby when not in use .

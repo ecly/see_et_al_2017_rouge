@@ -1,0 +1,2 @@
+barcelona-based booking platform byhours allows users to organise stays of three , six and 12 hours , and it has already got 25 hotels in the capital on board .
+the app allows the user to select their area , and then their time slot , to be shown a list of available hotels .

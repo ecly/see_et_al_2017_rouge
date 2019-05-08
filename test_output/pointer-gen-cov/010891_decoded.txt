@@ -1,0 +1,3 @@
+google is offering users the option of downloading their entire search archive .
+the feature exports to google drive in a zip archive , with files divided by year and quarter .
+the feature exports all of your searches to google drive in a zip archive , with files divided by year and quarter .

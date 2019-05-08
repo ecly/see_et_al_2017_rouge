@@ -1,0 +1,2 @@
+google claims the latest update to its android handsets can understand handwriting in 82 languages in 20 distinct scripts .
+google says its handwriting recognition works by ' building on large-scale language modeling , robust multi-language ocr and approximate nearest neighbour search for character classification ' .

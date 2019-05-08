@@ -1,0 +1,3 @@
+model , 40 , from UNK , essex , has a new wrinkle .
+says she is ' not vain , rich or brave to face ' .
+she says she is ' not vain , rich or brave ' .

@@ -1,0 +1,3 @@
+new tool lets users embed tweets within their own messages .
+users get an extra 116 characters to comment on a tweet .
+available on twitter’s website and the iphone app , the feature will roll out to android handsets soon .

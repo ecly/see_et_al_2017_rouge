@@ -1,0 +1,3 @@
+the password , 166816 , is still being used by about 90 per cent of customers .
+researchers david byrne and charles henderson disclosed on wednesday during the annual rsa security conference in california .
+henderson said that the vendor had been using the same default password since at least 1990 .

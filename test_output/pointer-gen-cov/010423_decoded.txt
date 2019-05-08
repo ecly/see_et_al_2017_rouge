@@ -1,0 +1,3 @@
+a $ 250 ( £168 ) device called neurio claims to make ‘ an ordinary home smart’ .
+it recognises the electronic signature of different devices - such as kettles and washing machines - allowing users to keep an eye on their energy consumption and even control appliances through their phone .
+neurio feeds information about energy consumption of the devices it’s recognised back to an app .
