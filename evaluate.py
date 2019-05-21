@@ -12,8 +12,8 @@ Pointer Generator + Coverage:
     ROUGE-L (F1): 36.38
 
 Example:
-    python rouge_evaluate.py test_output/pointer-gen test_output/reference
-    python rouge_evaluate.py test_output/pointer-gen-cov test_output/reference
+    python3 evaluate.py test_output/pointer-gen test_output/reference
+    python3 evaluate.py test_output/pointer-gen-cov test_output/reference
 """
 import sys
 from glob import glob
