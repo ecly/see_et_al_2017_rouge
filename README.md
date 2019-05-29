@@ -3,7 +3,7 @@ Repository to replicate the ROUGE scores from [See et al. (2017)](https://nlp.st
 
 We find that the reported scores correspond to those produced by the python re-implementation [py-rouge](https://pypi.org/project/py-rouge/), instead of those by produced by the official Rouge 155 Perl wrapper [pyrouge](https://pypi.org/project/pyrouge/). 
 
-The [evaluate.py](evaluate.py) script accepts a 'hypotheses' folder and a 'reference' folder. The ROUGE scores computed with py-rouge and pyrouge respectively are then computed and printed to standard out.
+The [evaluate.py](evaluate.py) script accepts a 'hypothesis' folder and a 'reference' folder. The ROUGE scores computed with py-rouge and pyrouge respectively are then computed and printed to standard out.
 
 The [test_output](test_output) folder, contains the test outputs from See et al. (2017), that can be downloaded from the README.md of the [official repository](https://github.com/abisee/pointer-generato://github.com/abisee/pointer-generator).
 
